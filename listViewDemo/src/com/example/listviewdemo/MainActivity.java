@@ -54,7 +54,7 @@ public class MainActivity extends Activity {
 	}
 	
 	
-	
+	//测试git功能啊啊 啊啊   阿卡地方；离得开上飞机啊阿里；都开始发；老地方看AD快乐是福就
 	
 	
 
@@ -98,19 +98,16 @@ public class MainActivity extends Activity {
 
 		@Override
 		public int getCount() {
-			// TODO Auto-generated method stub
 			return list.size();
 		}
 
 		@Override
 		public Object getItem(int position) {
-			// TODO Auto-generated method stub
 			return list.get(position);
 		}
 
 		@Override
 		public long getItemId(int position) {
-			// TODO Auto-generated method stub
 			return position;
 		}
 

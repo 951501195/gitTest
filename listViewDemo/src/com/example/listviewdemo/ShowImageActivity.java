@@ -10,9 +10,10 @@ import android.widget.ImageView;
 
 public class ShowImageActivity extends Activity {
 	private ImageView image;
+	
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.showimage);
 		image = (ImageView)this.findViewById(R.id.showimg);
