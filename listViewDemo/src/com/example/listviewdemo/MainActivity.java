@@ -52,6 +52,11 @@ public class MainActivity extends Activity {
 			}
 		});
 	}
+	
+	
+	
+	
+	
 
 	// 设置数据
 	public ArrayList<Image> getData() {
