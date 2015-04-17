@@ -52,11 +52,6 @@ public class MainActivity extends Activity {
 			}
 		});
 	}
-	
-	
-	//测试git功能啊啊 啊啊   阿卡地方；离得开上飞机啊阿里；都开始发；老地方看AD快乐是福就
-	
-	
 
 	// 设置数据
 	public ArrayList<Image> getData() {
